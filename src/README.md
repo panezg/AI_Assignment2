@@ -1,3 +1,7 @@
+Extension of SwarmPackagePy for comparative analysis purpose
+All credit to original authors listed below, except for analysis.py
+
+//
 
 # SwarmPackagePy
 **SwarmPackagePy** is a Library of swarm optimization algorithms. It includes 14 optimization algorithms and each can be used for solving specific optimization problem. You can find the principles they operate on and pseudo codes  below.<br>

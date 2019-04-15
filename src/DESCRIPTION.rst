@@ -1,3 +1,8 @@
+Extension of SwarmPackagePy for comparative analysis purpose
+All credit to original authors listed below, except for analysis.py
+
+//
+
 *SwarmPackagePy* is the package, witch contains the following swarm optimization algorithms:
 
 1. Artificial Bee Algorithm
